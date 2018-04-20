@@ -40,7 +40,7 @@ end = dt.datetime(2018,1,1) # End date
 return_type = "BMS" # "BMS" for business monthly start date
 riskfree = 0.0003 # Set a risk free interest rate
 
-# 2. Functions definition
+# 2. Function Definition
 
 # Function 1: accessing prices data
 def getprice(ticker,start,end):
