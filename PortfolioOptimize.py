@@ -17,14 +17,14 @@ while tick != "":
     ticker.append(tick)
     tick = input("Please input a ticker, press ENTER to stop:")
 
-# ticker = ["IBM","WMT","C"]
-
-# Quit if input tickers are not enough
+# Quit if tickers are not enough
 if len(ticker) <= 1:
     print("Need more tickers input!")
     quit()
 
 startyear = input("Please input the start year:")
+
+# Quit if start date are not available
 if startyear.isdigit():
     if eval(startyear) >= 1985 and eval(startyear) < 2018:
         pass
