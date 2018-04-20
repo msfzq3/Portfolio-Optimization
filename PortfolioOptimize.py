@@ -1,5 +1,4 @@
 # Easy Tool for Portfolio Optimization
-# Copyright----Ziqi Liu
 
 import math
 import datetime as dt
