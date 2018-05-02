@@ -1,5 +1,4 @@
-# Easy Tool for Portfolio Optimization
-# Copyright----msfzq3
+# Easy Tool for Portfolio Optimization V2.0
 # Input: Tickers / Start Date
 # Output: HTML Report of Portfolio Optimization
 
