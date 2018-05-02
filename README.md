@@ -8,6 +8,10 @@ The way to use:
 4. Wait for program analysis
 5. Check "Portfolio Optimization.txt" for optimization results
 
+Version 2.0 (Updated 05/02/2018):
+1. Plot the efficient frontier of stocks
+2. Output a well-organized HTML report 
+
 Version 1.0 (Updated 04/20/2018):
 1. User input: Stock tickers / Start date
 2. Program output: A .txt report including optimized equal-weight, min-variance and max-sharp portfolio
