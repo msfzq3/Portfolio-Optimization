@@ -1,5 +1,5 @@
 # Portfolio Optimization Tool
-Easy Tool for Portfolio Optimization Version 1.0
+Easy Tool for Portfolio Optimization
 
 The way to use:
 1. Run the .py file in IDE
