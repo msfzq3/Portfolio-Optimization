@@ -1,5 +1,4 @@
 # Easy Tool for Portfolio Optimization
-# Copyright----Ziqi Liu
 # Input: Tickers / Start Date
 # Output: HTML Report of Portfolio Optimization
 
