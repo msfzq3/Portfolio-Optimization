@@ -8,6 +8,9 @@ The way to use:
 4. Wait for program analysis
 5. Check the HTML file for optimization results
 
+Version 3.0 (Updated 05/11/2018):
+1. Plot a back-test analysis graph
+
 Version 2.0 (Updated 05/02/2018):
 1. Plot the efficient frontier of stocks
 2. Output a well-organized HTML report 
